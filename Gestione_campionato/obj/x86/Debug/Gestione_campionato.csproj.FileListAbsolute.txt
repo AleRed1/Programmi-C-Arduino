@@ -1,0 +1,9 @@
+C:\Users\utente\Desktop\TUTTO QUI\Gentili\Gestione_campionato\bin\Debug\Gestione_campionato.exe
+C:\Users\utente\Desktop\TUTTO QUI\Gentili\Gestione_campionato\bin\Debug\Gestione_campionato.pdb
+C:\Users\utente\Desktop\TUTTO QUI\Gentili\Gestione_campionato\obj\x86\Debug\Gestione_campionato.Form1.resources
+C:\Users\utente\Desktop\TUTTO QUI\Gentili\Gestione_campionato\obj\x86\Debug\Gestione_campionato.FormAgg.resources
+C:\Users\utente\Desktop\TUTTO QUI\Gentili\Gestione_campionato\obj\x86\Debug\Gestione_campionato.Properties.Resources.resources
+C:\Users\utente\Desktop\TUTTO QUI\Gentili\Gestione_campionato\obj\x86\Debug\Gestione_campionato.csproj.GenerateResource.Cache
+C:\Users\utente\Desktop\TUTTO QUI\Gentili\Gestione_campionato\obj\x86\Debug\Gestione_campionato.exe
+C:\Users\utente\Desktop\TUTTO QUI\Gentili\Gestione_campionato\obj\x86\Debug\Gestione_campionato.pdb
+C:\Users\lorenzo.gentili\Desktop\Programmi visual studio\Gestione_campionato\obj\x86\Debug\Gestione_campionato.exe
